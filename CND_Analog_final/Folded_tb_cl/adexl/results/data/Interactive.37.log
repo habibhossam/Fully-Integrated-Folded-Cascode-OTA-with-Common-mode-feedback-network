@@ -1,0 +1,27 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue May 14 10:22:50 2024 
+Best design point: 1
+Design specs: 
+	CND_Analog_final:Folded_tb_cl:1	corner	Nominal - 
+	LoopGain		226.6
+	Av_cl		1.991
+	PM		89.75
+	ymax(mag(v("/VOCM" ?result "ac")))		36.72f
+Design parameters: 
+	CL		1p
+	IREF		20u
+	VCN		750m
+	VCP		550m
+	VDD		1.2
+	VICM		0
+	VICMAC		0
+	VID		0
+	VIDAC		1
+	VREF		600m
+
+Interactive.37
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.37 completed. 
+Current time: Tue May 14 10:22:52 2024 

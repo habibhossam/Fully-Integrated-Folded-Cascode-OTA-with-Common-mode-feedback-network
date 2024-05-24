@@ -1,0 +1,19 @@
+EVcdFile ""
+EVcdInfoFile ""
+VcdFile ""
+VcdInfoFile ""
+VectorFile nil
+allDefinitionFiles ((t "/home/cadence/Desktop/SaveOp.scs"))
+allDspfFiles nil
+allIncludedPaths nil
+allPspiceFiles nil
+allSpefFiles nil
+allStimulusFiles nil
+allVectorFiles nil
+definitionFiles ("/home/cadence/Desktop/SaveOp.scs")
+dspfFile nil
+hlcheck "off"
+includePath ""
+pspiceFile nil
+spefFile nil
+stimulusFile nil

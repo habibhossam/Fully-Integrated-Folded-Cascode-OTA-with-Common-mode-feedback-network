@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cadence
+HostName                       berkeley.localdomain
+ProcessIdentifier              7673
+ProcessCreationTime_UTC        1715723608
+ProcessCreationTime_Readable   Tue May 14 17:53:28 2024 EDT
+AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/cadence/my_project/UMC/65/_G-01-LOGIC_MIXED_MODE65N-SP_LOW_K/Designkits/Cadence_IC6/CND_Analog_final/Folded_tb_cl/constraint/prop.cfg
+TimeEditLocked                 Tue May 14 18:44:33 2024 EDT

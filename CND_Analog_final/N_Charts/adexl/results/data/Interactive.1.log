@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun May  5 10:15:48 2024 
+Best design point: 1
+Design specs: 
+	CND_Analog_mid:N_Charts:1	corner	Nominal - 
+Design parameters: 
+	Ln		60n
+	VDS		1.2
+	VGS		400m
+	Wn		10u
+
+Interactive.1
+Number of points completed: 98
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Sun May  5 10:17:37 2024 
